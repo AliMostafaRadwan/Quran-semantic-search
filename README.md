@@ -20,3 +20,8 @@ i used Tafsir Ibn Kathir since its the largest of them all
 ## Installation
 
 1. Clone the repository: 
+2. Clone https://github.com/spa5k/tafsir_api.git to get the tafsir folder
+3. Clone https://github.com/semarketir/quranjson to get the verses and the translation 
+4. run ```pip install -r requirements.txt```
+5. run the ```generate_embeddings.py```
+6. run ```streamlit run main.py```
